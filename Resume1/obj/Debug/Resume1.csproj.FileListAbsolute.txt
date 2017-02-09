@@ -1,0 +1,9 @@
+C:\Users\s.bilinski\Desktop\Code\c#\Resume1\Resume1\bin\Debug\Resume1.exe.config
+C:\Users\s.bilinski\Desktop\Code\c#\Resume1\Resume1\bin\Debug\Resume1.exe
+C:\Users\s.bilinski\Desktop\Code\c#\Resume1\Resume1\bin\Debug\Resume1.pdb
+C:\Users\s.bilinski\Desktop\Code\c#\Resume1\Resume1\obj\Debug\Resume1.csprojResolveAssemblyReference.cache
+C:\Users\s.bilinski\Desktop\Code\c#\Resume1\Resume1\obj\Debug\Resume1.Form1.resources
+C:\Users\s.bilinski\Desktop\Code\c#\Resume1\Resume1\obj\Debug\Resume1.Properties.Resources.resources
+C:\Users\s.bilinski\Desktop\Code\c#\Resume1\Resume1\obj\Debug\Resume1.csproj.GenerateResource.Cache
+C:\Users\s.bilinski\Desktop\Code\c#\Resume1\Resume1\obj\Debug\Resume1.exe
+C:\Users\s.bilinski\Desktop\Code\c#\Resume1\Resume1\obj\Debug\Resume1.pdb
